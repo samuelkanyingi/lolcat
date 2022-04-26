@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(189, 46, 46);
+}
+h1.big{
+    font-family:  sans-serif;
+    font-size: 70px;
+    margin-bottom: -2px;
+}
+.boz{
+    text-align: center;
+}
+.got{
+    margin-top: -70px;
+    font-size: 20px;
+    color:aliceblue
+    
+}
+.bot{
+    background-color: black;
+    color: antiquewhite;
+    margin-left: 550px;
+    margin-right: 550px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
